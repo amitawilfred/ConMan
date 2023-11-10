@@ -1,0 +1,22 @@
+
+.contact {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .contact-info {
+    flex: 1;
+  }
+  
+  .contact-actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  button {
+    margin-left: 5px;
+  }
+  
